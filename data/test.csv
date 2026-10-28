@@ -1,0 +1,271 @@
+﻿customer_id,tenure_months,monthly_bill,support_tickets_90d,late_payments_6m,contract_type,auto_pay,internet_type,weekly_usage_gb,region,case_status
+C00513,6,48.73,2,1,One Year,Yes,DSL,36.2,North,No Case
+C00066,36,62.66,0,1,Two Years,,Fiber,50.3,South,No Case
+C00865,20,66.79,0,1,One Year,1,Fiber,29.3,Central,No Case
+C00899,31,73.84,1,3,Month-to-Month,No,,16.1,Central,No Case
+C00368,55,58.36,2,0,Month-to-Month,Yes,DSL,5.3,Central,No Case
+C00208,,82.39,0,1,Two Years,Yes,Fiber,,Central,No Case
+C00156,33,55.21,1,0,Month-to-Month,1,Fiber,41.5,Central,No Case
+C00613,54,40.20,1,0,Two Years,Yes,Fiber,,Central,No Case
+C01346,,41.62,1,0,One Year,,5G,45.3,Central,Customer Retained
+C00712,72,,0,0,Month-to-Month,Yes,5G,44.6,Central,No Case
+C00377,46,64.34,4,0,1 year,Yes,DSL,42.8,South,No Case
+C00381,6,68.27,1,1,Month-to-Month,Yes,5G,40.0,North,No Case
+C01266,29,85.19,0,1,Month-to-Month,Yes,,42.5,North,No Case
+C00822,40,47.30,1,4,One Year,No,,52.6,Central,No Case
+C00664,25,87.45,3,0,Month-to-Month,Yes,Fiber,43.1,Central,No Case
+C00688,38,,1,1,Month-to-Month,Yes,DSL,33.2,South,Customer Retained
+C00669,54,,2,1,One Year,1,DSL,33.5,Central,No Case
+C00825,44,66.58,1,2,One Year,yes,DSL,20.8,North,No Case
+C00614,40,45.60,0,0,M2M,1,DSL,29.1,North,No Case
+C00794,12,68.16,1,0,One Year,Yes,DSL,29.6,South,No Case
+C00211,,55.16,1,1,One Year,yes,Fiber,69.0,North,No Case
+C01165,47,59.70,3,3,Month-to-Month,No,DSL,19.8,Central,Cancellation Confirmed
+C00236,31,46.43,1,0,Month-to-Month,Yes,Fiber,56.9,North,Cancellation Confirmed
+C00881,25,83.47,0,1,Month-to-Month,Y,DSL,24.0,South,No Case
+C00885,8,74.98,1,0,month-to-month,Yes,Fiber,43.7,South,Customer Retained
+C01299,36,67.17,1,,Two Years,,Fiber,,South,No Case
+C00823,25,51.14,2,0,Month-to-Month,yes,DSL,11.8,Central,No Case
+C00546,60,88.17,1,0,Two Years,1,,38.2,North,No Case
+C01034,38,91.46,2,0,Month-to-Month,Yes,Fiber,25.4,North,No Case
+C00274,15,70.01,1,2,Month-to-Month,Y,Fiber,44.6,South,No Case
+C00248,37,,2,3,One Year,Yes,DSL,29.0,South,No Case
+C00629,14,60.06,2,2,One Year,yes,Fiber,59.2,North,Cancellation Confirmed
+C00992,,63.32,2,0,month-to-month,1,DSL,45.4,North,No Case
+C00420,43,90.82,0,1,Two Years,Yes,Fiber,48.9,Central,Customer Retained
+C00747,,84.63,2,0,Month-to-Month,Yes,Fiber,56.5,South,Customer Retained
+C00624,44,42.20,3,1,One Year,Yes,5G,28.5,South,No Case
+C00412,69,90.68,1,1,One Year,Yes,fiber,59.2,North,No Case
+C01231,5,36.41,1,0,Monthly,Yes,DSL,23.2,North,No Case
+C00949,27,66.44,0,0,Two Years,Yes,Fiber,38.7,Central,No Case
+C01050,10,93.42,0,2,One Year,No,,37.1,South,No Case
+C00282,51,63.88,2,0,month-to-month,Yes,DSL,22.3,Central,No Case
+C00795,48,28.78,1,1,One Year,Yes,DSL,29.6,North,No Case
+C00046,11,84.33,1,1,Month-to-Month,Yes,Fiber,48.9,North,No Case
+C00632,67,64.30,1,1,Month-to-Month,,Fiber,-16,Central,Customer Retained
+C01019,32,35.62,2,2,Month-to-Month,Yes,Fiber,48.5,central ,Cancellation Confirmed
+C00411,9,,0,0,One Year,Yes,Fiber,42.8,South,Customer Retained
+C01103,24,57.38,2,0,One Year,Yes,Fiber,47.4,South,Customer Retained
+C01126,64,41.52,0,0,1 year,Yes,5G,29.9,South,No Case
+C00375,72,43.36,0,0,One Year,Yes,Fiber,44.0,South,No Case
+C01327,43,76.11,1,1,Month-to-Month,No,DSL,25.8,Central,No Case
+C00828,46,55.68,2,0,Month-to-Month,Y,Fiber,55.1,Central,No Case
+C00525,45,62.55,2,1,Monthly,No,DSL,27.9,Central,No Case
+C01018,41,39.74,2,1,Two Years,No,DSL,,South,No Case
+C00691,5,75.02,0,1,One Year,Yes,Fiber,51.4,Central,No Case
+C00544,,38.89,1,0,month-to-month,Yes,Fiber,56.4,North,No Case
+C00633,,57.43,3,0,2 Years,,Fiber,35.6,Central,No Case
+C01340,51,39.38,2,2,Month-to-Month,No,Fiber,33.7,Central,Customer Retained
+C00232,13,83.31,1,2,Two Years,Yes,5G,42.1,Central,Customer Retained
+C00754,10,49.36,1,1,Month-to-Month,No,Fiber,38.7,Central,No Case
+C01127,32,40.58,1,0,Two Years,Yes,DSL,32.2,Central,No Case
+C00263,32,387.37,1,2,One Year,No,DSL,42.7,Central,No Case
+C00435,4,54.34,3,0,One Year,Yes,DSL,42.4,South,No Case
+C00582,63,63.70,3,1,one year,1,DSL,26.1,Central,No Case
+C00931,27,62.24,1,1,Two Years,Yes,DSL,25.5,Central,Customer Retained
+C00550,4,86.46,3,1,One Year,Yes,Fiber,52.3,Central,No Case
+C00148,66,60.26,1,1,One Year,Yes,Fiber,53.8,Central,Customer Retained
+C01326,47,,2,0,Two Years,Y,fiber,38.6,Central,No Case
+C00625,49,46.40,4,0,One Year,Yes,DSL,11.3,South,No Case
+C01144,43,51.27,3,0,Monthly,Yes,,12.2,Central,No Case
+C00280,45,85.72,0,1,Two Years,No,Fiber,29.6,North,Customer Retained
+C00679,8,66.54,2,3,Two Years,No,,34.8,Central,Cancellation Confirmed
+C00125,61,76.60,1,1,Month-to-Month,Yes,DSL,31.0,South,No Case
+C00485,26,65.54,1,4,one year,No,Fiber,33.6,North,No Case
+C01204,71,70.89,2,1,Month-to-Month,Yes,5G,28.1,Central,No Case
+C01083,40,56.40,4,0,One Year,Yes,DSL,16.9,South,No Case
+C00410,55,18.13,1,0,2 Years,Yes,,33.4,North,No Case
+C00508,52,94.46,5,3,One Year,Yes,,34.3,North,No Case
+C00312,60,79.02,2,1,Month-to-Month,Yes,Fiber,42.1,North,No Case
+C01285,27,,2,0,2 Years,Yes,Fiber,50.3,Central,No Case
+C00231,12,47.55,1,0,Month-to-Month,yes,5G,16.9,South,Customer Retained
+C00659,58,78.61,0,1,One Year,yes,,49.7,South,No Case
+C00204,63,68.19,1,1,Month-to-Month,Yes,DSL,32.7,Central,No Case
+C00397,36,97.00,2,1,Month-to-Month,No,Fiber,36.4,South,Cancellation Confirmed
+C01071,5,,2,0,Month-to-Month,Yes,DSL,27.5,North,No Case
+C00607,29,90.24,1,0,Month-to-Month,No,Fiber,42.9,Central,Cancellation Confirmed
+C01289,38,46.24,2,1,Month-to-Month,No,DSL,34.3,South,No Case
+C00533,23,91.58,2,0,Month-to-Month,N,Fiber,45.8,North,Cancellation Confirmed
+C00924,19,78.14,1,0,one year,Yes,Fiber,46.9,central ,No Case
+C00953,14,76.26,0,0,Month-to-Month,no,Fiber,40.5,South,Customer Retained
+C00016,26,45.35,3,0,One Year,1,5G,34.7,Central,No Case
+C01197,22,55.45,0,0,month-to-month,Yes,Fiber,43.5,Central,Customer Retained
+C00940,29,64.89,3,1,Two Years,No,,34.7,Central,No Case
+C00157,,46.63,1,0,Month-to-Month,yes,DSL,25.1,Central,No Case
+C00404,,56.39,3,0,Month-to-Month,0,Fiber,48.0,North,No Case
+C00327,8,27.66,3,2,Month-to-Month,Yes,DSL,-5,Central,Cancellation Confirmed
+C00479,18,,3,0,Month-to-Month,Yes,DSL,19.6,North,Cancellation Confirmed
+C00683,46,39.75,1,1,Two Years,Yes,Fiber,49.3,South,No Case
+C00110,4,37.44,2,0,Month-to-Month,Yes,DSL,15.6,Central,No Case
+C01297,26,29.96,2,0,Month-to-Month,Yes,DSL,27.6,Central,No Case
+C00736,,38.50,2,0,M2M,Yes,DSL,46.5,North,No Case
+C00032,59,58.55,2,0,Two Years,Yes,Fiber,26.5,North,Customer Retained
+C00907,32,117.80,0,2,Month-to-Month,No,Fiber,41.3,South,Customer Retained
+C00784,5,57.15,0,1,One Year,Y,DSL,32.1,North,No Case
+C01303,,67.63,2,1,One Year,Yes,Fiber,,North,No Case
+C01321,48,21.42,0,2,One Year,Yes,DSL,23.5,Central,No Case
+C01157,,84.60,1,0,One Year,No,5G,38.2,Central,No Case
+C00605,28,59.17,1,0,Two Years,Yes,Fiber,33.1,North,Customer Retained
+C00449,52,79.02,0,1,Month-to-Month,Yes,Fiber,38.8,Central,No Case
+C00103,31,,2,0,1 year,Yes,DSL,15.4,South,Customer Retained
+C00621,42,44.22,3,0,One Year,0,Fiber,51.9,North,Customer Retained
+C00832,65,83.80,2,0,Month-to-Month,yes,DSL,30.0,Central,No Case
+C00757,23,101.62,2,0,Month-to-Month,1,fiber,33.1,North,No Case
+C00419,1,65.46,3,1,One Year,No,Fiber,42.5,North,No Case
+C00493,72,,1,1,One Year,Y,DSL,29.5,South,No Case
+C01331,20,33.62,2,2,Two Years,Yes,DSL,27.5,North,No Case
+C00343,43,45.91,2,1,Month-to-Month,No,Fiber,41.8,South,No Case
+C01214,31,48.38,2,0,Month-to-Month,Yes,Fiber,37.2,North,No Case
+C00230,59,62.07,1,1,Two Years,1,5G,44.4,North,No Case
+C01116,71,65.84,1,3,M2M,0,5G,48.0,Central,No Case
+C00726,19,71.67,1,2,Two Years,No,DSL,39.0,Central,No Case
+C00045,56,47.02,1,1,1 year,No,5G,18.0,North,Customer Retained
+C00645,51,67.60,1,1,Month-to-Month,No,DSL,25.0,Central,No Case
+C00166,45,43.69,1,0,Monthly,Y,Fiber,38.6,South,No Case
+C00842,61,22.07,0,1,Month-to-Month,Y,DSL,26.1,South,No Case
+C01042,37,58.38,2,1,Month-to-Month,Yes,Fiber,27.4,North,No Case
+C00561,39,37.06,1,0,One Year,Yes,DSL,32.2,Central,No Case
+C01191,70,59.80,1,0,One Year,Yes,DSL,38.9,South,No Case
+C00783,63,54.67,1,1,2 Years,0,fiber,40.5,North,No Case
+C00946,48,54.30,2,0,Month-to-Month,Yes,Fiber,31.1,North,No Case
+C00538,71,82.93,1,0,2 Years,N,DSL,37.9,Central,No Case
+C00061,28,57.39,2,0,One Year,yes,Fiber,54.0,Central,Customer Retained
+C00184,31,55.10,1,1,One Year,,DSL,,Central,Cancellation Confirmed
+C00941,2,70.71,2,1,Month-to-Month,Yes,DSL,30.6,North,No Case
+C00833,17,58.54,2,2,One Year,Yes,DSL,23.0,Central,Cancellation Confirmed
+C00020,15,55.52,0,1,Month-to-Month,Yes,DSL,33.4,Central,No Case
+C00267,25,61.02,1,2,Month-to-Month,No,5G,34.7,North,No Case
+C00766,50,72.30,2,1,Two Years,No,5G,23.7,central ,No Case
+C01286,61,,3,1,Two Years,,Fiber,50.9,South,Cancellation Confirmed
+C01174,67,78.08,1,0,Month-to-Month,Y,5G,44.9,North,No Case
+C00158,53,85.12,1,0,One Year,Y,Fiber,42.2,Central,No Case
+C00857,7,69.19,2,0,Month-to-Month,Yes,5G,32.5,Central,Cancellation Confirmed
+C00892,63,37.13,2,0,Month-to-Month,Yes,Fiber,33.2,Central,Customer Retained
+C00720,55,69.73,2,2,One Year,No,Fiber,41.3,North,No Case
+C00724,22,,0,1,One Year,No,5G,48.0,North,No Case
+C00681,26,61.74,1,0,Month-to-Month,No,DSL,25.2,Central,No Case
+C01261,46,67.17,1,0,Month-to-Month,yes,Fiber,36.1,Central,Customer Retained
+C01293,5,57.52,2,0,Month-to-Month,Yes,DSL,36.1,Central,Customer Retained
+C00414,1,31.59,0,1,One Year,Yes,DSL,23.5,North,Cancellation Confirmed
+C01075,13,51.54,1,1,Two Years,No,5G,37.6,North,No Case
+C00798,27,46.88,1,0,Two Years,Yes,DSL,43.6,North,No Case
+C00094,1,82.32,1,1,One Year,N,Fiber,50.2,Central,No Case
+C00956,16,72.27,1,0,One Year,1,Fiber,51.4,Central,No Case
+C00677,18,80.59,0,2,Month-to-Month,Yes,5G,30.2,Central,No Case
+C00856,21,59.74,0,1,Month-to-Month,,Fiber,37.1,South,No Case
+C00054,66,53.51,2,0,Month-to-Month,Yes,Fiber,27.8,South,No Case
+C00428,61,33.65,1,2,month-to-month,No,Fiber,,South,No Case
+C00432,46,85.19,2,0,Month-to-Month,Yes,,55.3,North,No Case
+C00207,64,47.85,3,0,Monthly,No,DSL,17.5,South,No Case
+C00301,25,53.18,1,1,Month-to-Month,No,5G,28.1,Central,No Case
+C00126,62,61.82,1,0,One Year,Yes,5G,37.1,Central,Cancellation Confirmed
+C01156,28,,3,0,Two Years,No,Fiber,58.0,Central,No Case
+C00342,31,45.93,1,0,One Year,Yes,5G,37.5,Central,No Case
+C00972,45,74.11,1,0,Month-to-Month,No,Fiber,58.8,Central,Customer Retained
+C00585,17,60.58,2,1,Month-to-Month,,DSL,25.9,North,No Case
+C00464,32,62.31,1,1,One Year,Yes,DSL,27.5,Central,Customer Retained
+C00759,35,54.96,2,2,Two Years,No,DSL,28.5,South,No Case
+C00792,4,41.14,2,1,one year,yes,DSL,27.1,South,No Case
+C00443,3,54.29,1,0,One Year,Yes,Fiber,44.8,Central,No Case
+C01120,29,62.39,2,3,Month-to-Month,No,Fiber,44.6,Central,No Case
+C00812,64,65.93,1,0,One Year,No,Fiber,24.5,South,No Case
+C00542,56,43.25,2,0,Month-to-Month,Yes,Fiber,39.1,South,No Case
+C01193,8,70.41,1,2,One Year,No,Fiber,42.8,Central,No Case
+C01262,34,57.33,1,1,Month-to-Month,Yes,Fiber,57.1,Central,No Case
+C00287,6,51.56,3,0,Two Years,no,DSL,36.5,North,No Case
+C00355,25,68.86,0,1,Month-to-Month,No,5G,43.9,Central,No Case
+C01264,10,72.45,2,0,Monthly,yes,Fiber,51.7,Central,No Case
+C00891,,32.26,0,3,One Year,No,5G,37.2,Central,No Case
+C00739,54,62.14,1,0,Two Years,No,Fiber,44.5,central ,Customer Retained
+C01138,66,,3,0,One Year,Yes,Fiber,29.9,South,No Case
+C00401,3,88.77,0,1,Month-to-Month,Yes,Satellite,17.9,North,No Case
+C00488,57,67.38,2,0,Month-to-Month,No,5G,29.2,North,No Case
+C01074,37,74.16,1,0,Month-to-Month,Yes,DSL,25.6,North,Cancellation Confirmed
+C00705,57,33.59,2,1,One Year,Yes,DSL,28.6,South,No Case
+C00644,12,21.84,3,2,One Year,Yes,DSL,22.3,North,Cancellation Confirmed
+C00516,6,51.68,1,2,Month-to-Month,No,DSL,8.6,Central,Cancellation Confirmed
+C01097,34,69.75,3,1,Month-to-Month,No,Fiber,,North,No Case
+C01323,14,63.30,2,0,One Year,Yes,Fiber,22.1,Central,Customer Retained
+C00673,40,66.13,3,0,One Year,Yes,fiber,53.0,North,Cancellation Confirmed
+C01171,16,63.43,1,1,Month-to-Month,Yes,Fiber,,North,Customer Retained
+C00146,26,31.45,1,2,One Year,No,DSL,,North,No Case
+C00928,41,63.31,1,3,Month-to-Month,0,5G,35.1,South,Cancellation Confirmed
+C00395,35,69.49,0,0,Month-to-Month,No,Satellite,68.7,Central,No Case
+C00498,69,81.78,1,0,Two Years,Yes,fiber,23.2,Central,No Case
+C00927,23,62.64,1,0,Month-to-Month,N,DSL,,North,No Case
+C00531,,29.78,0,1,One Year,Yes,5G,34.3,North,Customer Retained
+C00862,12,41.64,0,2,One Year,,Fiber,38.4,Central,No Case
+C00764,56,57.18,2,0,Month-to-Month,Yes,Fiber,57.3,North,No Case
+C00944,18,47.32,2,0,Month-to-Month,No,Fiber,53.0,Central,Cancellation Confirmed
+C01173,52,62.13,2,1,One Year,Yes,Fiber,45.6,Central,No Case
+C00030,63,26.74,3,0,One Year,,DSL,25.8,Central,No Case
+C00131,56,61.65,1,1,Month-to-Month,,Fiber,48.1,North,No Case
+C00253,51,47.47,1,1,One Year,Yes,,,South,Customer Retained
+C00171,5,,1,1,Month-to-Month,Y,fiber,37.8,South,No Case
+C00656,72,70.83,0,0,Month-to-Month,Yes,Fiber,-13,South,No Case
+C00551,12,66.99,2,2,Month-to-Month,No,5G,31.3,South,Cancellation Confirmed
+C01325,,44.03,0,1,2 Years,Yes,Fiber,50.9,North,No Case
+C01056,,60.13,0,0,Two Years,Y,5G,30.2,North,No Case
+C00593,44,67.05,1,1,Two Years,No,Fiber,40.2,Central,No Case
+C00384,13,36.13,3,0,Two Years,Yes,DSL,34.5,Central,No Case
+C00522,52,82.11,1,1,Month-to-Month,Yes,Fiber,46.8,South,No Case
+C00408,,62.53,6,3,One Year,No,Fiber,43.7,Central,Cancellation Confirmed
+C01270,57,59.29,1,4,Two Years,No,Fiber,50.9,South,Cancellation Confirmed
+C00283,63,42.96,2,0,Month-to-Month,Yes,,18.7,Central,Cancellation Confirmed
+C00834,41,55.28,0,2,Two Years,0,Fiber,,North,No Case
+C00409,23,36.05,1,1,One Year,Yes,DSL,24.5,North,No Case
+C00026,12,57.10,2,0,One Year,Yes,DSL,23.0,North,Customer Retained
+C00285,41,23.56,1,1,One Year,1,DSL,22.6,North,No Case
+C01250,27,80.75,2,0,Month-to-Month,Yes,Fiber,63.4,Central,Customer Retained
+C00194,47,65.31,1,1,Month-to-Month,,5G,42.9,North,No Case
+C00303,62,33.34,0,1,One Year,Yes,Fiber,38.9,central ,No Case
+C01006,1,63.80,0,1,Month-to-Month,No,5G,25.5,North,No Case
+C00309,,72.49,1,2,Monthly,,Fiber,58.7,Central,Cancellation Confirmed
+C00470,56,47.98,0,2,One Year,Yes,5G,45.7,Central,No Case
+C01283,2,48.00,3,0,One Year,No,5G,20.2,South,No Case
+C01211,18,48.82,3,0,1 year,Yes,DSL,19.1,North,Customer Retained
+C00667,3,71.24,2,0,month-to-month,No,Fiber,30.1,North,No Case
+C01237,31,76.78,2,0,One Year,Yes,Fiber,55.5,South,No Case
+C00584,58,71.96,0,1,Month-to-Month,Yes,Fiber,41.9,Central,No Case
+C00331,19,44.07,2,2,Month-to-Month,No,DSL,33.3,South,Cancellation Confirmed
+C01277,67,29.94,3,1,One Year,No,fiber,,North,Customer Retained
+C00886,24,63.68,3,2,one year,Yes,Fiber,46.3,North,No Case
+C00501,23,50.77,2,0,Month-to-Month,Yes,Fiber,33.2,North,Customer Retained
+C00042,24,,3,0,One Year,Yes,Fiber,34.7,South,No Case
+C00273,61,70.06,4,1,Month-to-Month,No,Fiber,,North,Cancellation Confirmed
+C00402,18,48.27,1,0,Month-to-Month,Yes,Fiber,,Central,No Case
+C00471,5,,1,1,one year,Y,5G,39.3,South,No Case
+C01175,38,44.28,3,0,Monthly,Yes,Fiber,56.9,Central,No Case
+C00780,33,64.43,2,1,Month-to-Month,Yes,DSL,23.2,Central,No Case
+C01033,45,,0,1,Month-to-Month,No,Fiber,28.9,Central,No Case
+C01215,45,48.91,2,1,Monthly,No,DSL,51.8,North,No Case
+C00733,,76.15,0,0,Month-to-Month,Y,Fiber,,South,Customer Retained
+C00942,64,44.66,1,1,Month-to-Month,No,Fiber,48.8,South,No Case
+C00295,2,77.79,1,0,One Year,Yes,Fiber,46.1,North,No Case
+C01274,26,51.04,0,0,Two Years,No,Fiber,39.4,North,No Case
+C00210,61,38.83,2,0,One Year,Yes,DSL,38.5,Central,Customer Retained
+C00049,43,118.50,0,0,Month-to-Month,Yes,Fiber,42.0,Central,No Case
+C01216,12,69.32,1,0,Month-to-Month,Yes,Fiber,34.1,North,No Case
+C01010,49,78.21,0,0,Two Years,Yes,Fiber,49.6,central ,No Case
+C00994,48,67.42,1,3,One Year,N,Fiber,32.0,Central,No Case
+C00293,60,64.68,1,0,Two Years,Yes,5G,40.9,central ,Customer Retained
+C00848,46,93.87,0,2,Month-to-Month,No,Fiber,42.8,North,Customer Retained
+C00520,44,47.09,2,,One Year,No,Fiber,35.4,North,No Case
+C00023,44,58.65,1,0,One Year,Yes,Fiber,56.3,Central,No Case
+C01066,49,51.42,2,1,One Year,Yes,DSL,21.7,South,No Case
+C00191,62,74.33,1,1,Month-to-Month,Yes,Fiber,52.9,Central,No Case
+C01223,42,60.92,1,1,Month-to-Month,Yes,Fiber,63.9,North,No Case
+C00896,64,42.36,2,0,Two Years,Yes,DSL,26.1,Central,No Case
+C01164,6,57.23,5,1,One Year,Yes,Fiber,,Central,Cancellation Confirmed
+C01333,34,89.52,0,,month-to-month,No,5G,39.4,South,No Case
+C00775,61,259.80,0,,2 Years,Yes,Fiber,36.2,South,No Case
+C00807,28,68.88,0,2,Month-to-Month,,Fiber,47.8,Central,Customer Retained
+C00905,43,50.03,0,1,One Year,Yes,5G,28.2,Central,Customer Retained
+C01048,7,,0,1,One Year,Yes,DSL,22.3,Central,No Case
+C00440,,53.44,1,1,Month-to-Month,Yes,DSL,30.9,North,No Case
+C00237,39,61.20,1,,Monthly,Yes,Fiber,46.6,Central,No Case
+C00082,50,73.68,1,1,Month-to-Month,No,DSL,13.0,Central,Cancellation Confirmed
+C01185,,72.78,1,0,One Year,Yes,5G,26.5,North,No Case
+C00415,20,80.07,0,1,Month-to-Month,Yes,Fiber,54.6,South,Customer Retained
+C01298,67,73.98,0,0,One Year,No,DSL,,Central,No Case
+C00079,,85.40,2,0,One Year,No,Fiber,21.6,South,No Case

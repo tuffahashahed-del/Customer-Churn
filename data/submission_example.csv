@@ -1,0 +1,3 @@
+﻿customer_id,churn_probability,churn_prediction
+C00513,0.37,0
+C00066,0.76,1
